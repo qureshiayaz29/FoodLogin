@@ -5,5 +5,4 @@
 <p><a href="https://www.youtube.com/watch?v=U97_SITVHlk">https://youtu.be/4QLX9WjhdFs</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><img src="https://github.com/qureshiayaz29/Login-Screen01/blob/master/image(4).png" alt="Login Screen" /></p>
 <p><img src="https://github.com/qureshiayaz29/FoodLogin/blob/master/cover.png" alt="" /></p>
